@@ -1,6 +1,6 @@
 # My-Portfolio
 
-# Project 1: Multivariable Regression (Accapted Loans) 
+# [Project 1: Multivariable Regression (Accapted Loans)] (https://github.com/jlugo3059/Multivariable-Regression) 
 
 This project focuses on doing a multivariable regression on an loans dataset. The loans dataset comprises data from over one million borrowers who were approved to receive loans by the Lending Club company. Using the provided data, the model developed in this project will employ a multivariable regression technique to predict interest rates by considering independent variables given in the dataset.
 
