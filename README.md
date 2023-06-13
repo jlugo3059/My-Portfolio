@@ -8,3 +8,5 @@ This project focuses on doing a multivariable regression on an loans dataset. Th
 * The data cleaning phase of the project removes all null values from the project and creates dummy variables for categorical variables.
 * The featured scaling technique used in this project is normalization 
 * The regression method used is Least Squares 
+
+# [Project 2: Neural Network and Logistic Regression (Employee Attrition)](https://github.com/jlugo3059/Employee-Attrition)
