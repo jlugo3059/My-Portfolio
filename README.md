@@ -14,7 +14,7 @@ This project focuses on doing a multivariable regression on a loan’s dataset. 
 
 # [Project 2: Neural Network and Logistic Regression (Employee Attrition)](https://github.com/jlugo3059/Employee-Attrition)
 
-The primary objective of this project is to evaluate and compare the accuracy results of both a neural network and a logistic regression model using an employee attrition dataset. Similarly, the main focus of both models in this project will be to make predictions on the binary variable of attrition (yes or no). This variable determines whether an employee will continue working in their current job or not. 
+The primary objective of this project is to evaluate and compare the accuracy results of both a neural network and a logistic regression model using an employee attrition dataset. Likewise, the primary objective of both models in this project is to predict the binary outcome of attrition, which can either be 'yes' or 'no'. This variable determines whether an employee will continue working in their current job or not. 
 
 * The dataset was taken from Kaggle and is available for download from both the Kaggle website and the repository files.
 * The target variable is Attrition a binary variable of yes or no.
