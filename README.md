@@ -25,3 +25,12 @@ The primary objective of this project is to evaluate and compare the accuracy re
 * The logistic regression used an optimization algorithm called "liblinear" or "lbfgs" from scikit learn.
 * For model comparisons both models calculated accuracy scores.
 
+# [Project 3 : Attrition Dashboard](https://public.tableau.com/app/profile/jorge.lugo/viz/Projecttableau_16878442443360/Dashboard1?publish=yes)
+
+This project uses the attrition dataset (same dataset from project 2) to create a dashboard on tableau.  Similarly, to the second project the primary focus is the variable attrition, (dictates whether or not an employee continues working at their current job or not) which we will be compared with other similar categorical visual.
+
+* Note that attrition is still binary, and all the visualizations compare categorical variables as a percentage value of the total sum of attrition (in other words, they calculated how much of the categories were "yes" out of all the aggregate values of "yes" and "no”).
+* Martial Status is a categorical variable of people who identified as single, married, and divorced.
+* Business Travel is a categorical variable which displays individuals who identified as traveling frequently, traveling rarely, and not traveling at all as part of their jobs.
+* Job roles is as its name implies, job roles that employees identified as having.
+* Lastly gender are employees who identified as being male or female. Note that there is a parameter for gender which filters all the other visualizations based on specified gender. 
